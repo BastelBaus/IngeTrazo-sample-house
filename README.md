@@ -15,6 +15,7 @@ names and texts were translated from German.
 | Path | What |
 |---|---|
 | `model/sample-house_v####.igz` | IngeTrazo model – always use the highest version number |
+| `model/sample-house_v####.pdf` | All sheets of that model as one vector PDF (A4), exported from IngeTrazo |
 
 ## Opening the model
 
