@@ -14,12 +14,12 @@ names and texts were translated from German.
 
 | Path | What |
 |---|---|
-| `model/sample-house_v####.igz` | IngeTrazo model – always use the highest version number |
-| `model/sample-house_v####.pdf` | All sheets of that model as one vector PDF (A4), exported from IngeTrazo |
+| `sample-house_v####.igz` | IngeTrazo model – always use the highest version number |
+| `sample-house_v####.pdf` | All sheets of that model as one vector PDF (A4), exported from IngeTrazo |
 
 ## Opening the model
 
-Open `model/sample-house_v####.igz` in IngeTrazo (≥ 0.5.11). Useful starting points:
+Open `sample-house_v####.igz` in IngeTrazo (≥ 0.5.11). Useful starting points:
 
 - **Layers** are grouped in folders *Storeys*, *Walls*, *Measurements*, *Installation*, *Zones*.
   `Walls_old` = existing walls to be removed, `Walls_new` = new walls.
@@ -48,6 +48,7 @@ The translator and its rules are kept private and are not part of this repositor
 | Model | Source version | Date | Notes |
 |---|---|---|---|
 | `sample-house_v0013.igz` | v0013 | 2026-10-29 | First public version (incl. saved view "Full"), title "Single-Family House Gut Renovation with BIM System" |
+| `sample-house_v0016.igz` | v0016 | 2026-10-29 | Update from working model |
 
 ## Licence
 
