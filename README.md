@@ -51,4 +51,10 @@ The translator and its rules are kept private and are not part of this repositor
 
 ## Licence
 
-[MIT](LICENSE) – applies to the model.
+© 2026 BastelBaus. The model and documentation are licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) –
+see [LICENSE](LICENSE). You may share and adapt them, also commercially, as long as you
+credit "BastelBaus – IngeTrazo sample house" and link to this repository.
+
+Embedded textures (`textures/` inside the `.igz`) are not covered by this licence and
+remain the property of their respective owners.
