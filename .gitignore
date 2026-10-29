@@ -1,0 +1,8 @@
+# personal data rules - never publish
+redact.json
+private/
+*.bak
+__pycache__/
+
+# translator, glossary and rules - kept private
+tools/
