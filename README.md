@@ -49,6 +49,7 @@ The translator and its rules are kept private and are not part of this repositor
 |---|---|---|---|
 | `sample-house_v0013.igz` | v0013 | 2026-10-29 | First public version (incl. saved view "Full"), title "Single-Family House Gut Renovation with BIM System" |
 | `sample-house_v0016.igz` | v0016 | 2026-10-29 | Update from working model |
+| `sample-house_v0022.igz` | v0022 | 2026-11-01 | Update from working model |
 
 ## Licence
 
