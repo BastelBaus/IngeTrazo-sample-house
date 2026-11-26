@@ -37,6 +37,12 @@ Sheets
 ![Sheets](screenshots/BIM_v0022_sheets.png)
 
 
+## Versions
+
+| File | Version | Date | Note |
+|---|---|---|---|
+| `sample-house_v0050.igz` | v0050 | 2026-11-26 | Update from working model |
+
 ## Licence
 
 © 2026 BastelBaus. The model and documentation are licensed under
