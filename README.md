@@ -19,22 +19,22 @@ It could be used as blue print how to model such a project in IngeTrazo. See [di
 ## Examples how it is modelled
 
 Workplace
-![Workplace](screenshots/BIM_v0022_workplace.png)
+![Workplace](screenshots/BIM_v0050_workplace.png)
 
 Model browser
-![model browser](screenshots/BIM_v0022_browser.png)
+![model browser](screenshots/BIM_v0050_browser.png)
 
 BIM structure
-![BIM structure](screenshots/BIM_v0022_BIM.png)
+![BIM structure](screenshots/BIM_v0050_BIM.png)
 
 Layers
-![Layer](screenshots/BIM_v0022_layers.png)
+![Layer](screenshots/BIM_v0050_layers.png)
 
 Views
-![Views](screenshots/BIM_v0022_views.png)
+![Views](screenshots/BIM_v0050_views.png)
 
 Sheets
-![Sheets](screenshots/BIM_v0022_sheets.png)
+![Sheets](screenshots/BIM_v0050_sheets.png)
 
 
 ## Versions
